@@ -1,5 +1,7 @@
 # :city_sunset: Fyr kernel for Jupyter
 
+This was part of my bachelors thesis and is continued [here](https://github.com/vs-ude/jupyter-kernel-fyr).
+
 ## Manual installation
 
 Make sure you have the following requirements installed:
@@ -21,4 +23,4 @@ Make sure you have the following requirements installed:
 
 ---
 
-This is part of my bachelors thesis.
+This was part of my bachelors thesis and is continued [here](https://github.com/vs-ude/jupyter-kernel-fyr).
